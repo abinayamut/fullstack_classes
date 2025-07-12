@@ -5,7 +5,6 @@ public class Array_Onedimesional {
 	int empid[] = new int[5];
 	int i,n;
 	Scanner sc = new Scanner(System.in);
-	
 	void input()
 	{
 		System.out.println("Enter the n value ::");

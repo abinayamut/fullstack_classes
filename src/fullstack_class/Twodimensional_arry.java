@@ -32,9 +32,9 @@ class Demo13
 }
 public class Twodimensional_arry {
 	public static void main(String[] args) {
-		Twodimensional_arry f1 = new Twodimensional_arry();
-		f1.get();
-		f1.display();
+		Demo13 f1 = new Demo13();
+		f1.input();
+		f1.logic();
 	}
 
 }

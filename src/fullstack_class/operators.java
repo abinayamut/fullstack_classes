@@ -46,10 +46,10 @@ public class operators {
 	}
 	public static void main(String[] args) {
 		operators f1=new operators ();
-		//f1.arithmaticOperator();
+		f1.arithmaticOperator();
 		//f1.ComparsionOperation();
 		//f1.logicalOperator();
-		f1.bitwiseOperator();
+		//f1.bitwiseOperator();
 	}
 
 }
